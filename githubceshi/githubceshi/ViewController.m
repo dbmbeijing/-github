@@ -20,6 +20,9 @@
     
     NSLog(@"zailaiyici");
     
+    NSLog(@"看俩是好了");
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
